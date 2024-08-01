@@ -2,8 +2,8 @@
 
 <p href="https://github.com/mmouqtadi?tab=repositories" align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/mmouqtadi?tab=repositories">
-    <img align="center" alt="mmouqtadi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmouqtadi&hide_title=true&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ff00&border_color=00ff00&border_radius=12&card_width=436" style="vertical-align: middle;" />
-    <img align="center" alt="mmouqtadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmouqtadi&layout=compact&theme=chartreuse-dark&show_icons=true&icon_color=00ff00&border_color=00ff00&border_radius=12" style="vertical-align: middle; height="163" />
+    <img align="center" alt="mmouqtadi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmouqtadi&hide_title=true&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ff00&border_color=00ff00&border_radius=12&card_width=436" style="vertical-align: middle;" height="140" />
+    <img align="center" alt="mmouqtadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmouqtadi&layout=compact&theme=chartreuse-dark&show_icons=true&icon_color=00ff00&border_color=00ff00&border_radius=12" style="vertical-align: middle;" height="139.5" />
   </a>
 </p>
 
@@ -30,9 +30,9 @@
 <h2>✨ Fun Facts</h2>
 
 <img align = right src="https://media.tenor.com/CDPuQi4b_S0AAAAd/the-big-lebowski-coen-brothers.gif" height="350" alt="Fun Facts Image" />
-<li><strong>First Computer Virus:</strong> The first computer virus, called the "Creeper system," was created in 1971 by Bob Thomas. It displayed the message, "I'm the creeper, catch me if you can!"</li>
-<li>Type <strong>telnet towel.blinkenlights.nl</strong> to watch "Star Wars Episode IV" entirely in ASCII art in your terminal.</li>
-<li>The <strong>QWERTY</strong> keyboard layout was designed to slow down typing. Early typewriters would jam if the keys were pressed too quickly.</li>
+<li><strong>First Computer Virus:</strong> The first computer virus, called the "Creeper system," was created in 1971 by Bob Thomas. It displayed the message, "I'm the creeper, catch me if you can!"</li><br>
+<li>Type <strong><em>"telnet towel.blinkenlights.nl"</em></strong> to watch "Star Wars Episode IV" entirely in ASCII art in your terminal.</li><br>
+<li>The <strong>"QWERTY"</strong> keyboard layout was designed to slow down typing. Early typewriters would jam if the keys were pressed too quickly.</li><br>
 <li>Ohh! and I use Arch btw.</li>	
 
 <div align="left">
