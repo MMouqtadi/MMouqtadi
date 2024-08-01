@@ -2,17 +2,17 @@
 
 <p href="https://github.com/mmouqtadi?tab=repositories" align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/mmouqtadi?tab=repositories">
-    <img align="center" alt="mmouqtadi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmouqtadi&hide_title=true&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ff00&border_color=00ff00&border_radius=12&card_width=436" style="vertical-align: middle;" height="140" />
-    <img align="center" alt="mmouqtadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmouqtadi&layout=compact&theme=chartreuse-dark&show_icons=true&icon_color=00ff00&border_color=00ff00&border_radius=12" style="vertical-align: middle;" height="139.5" />
+    <img align="center" alt="mmouqtadi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmouqtadi&hide_title=true&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ff00&border_color=00ff00&border_radius=12&card_width=436" style="vertical-align: middle;" height="135" />
+    <img align="center" alt="mmouqtadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmouqtadi&layout=compact&theme=chartreuse-dark&show_icons=true&icon_color=00ff00&border_color=00ff00&border_radius=12" style="vertical-align: middle;" height="134.5" />
   </a>
 </p>
 
 
 <div align = center>
   <a href="https://open.spotify.com/user/31gh775f3vg7pqh2oqo5q5wpu2ju">
-    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31gh775f3vg7pqh2oqo5q5wpu2ju&count=5&unique=true" height="270" alt="Spotify recently played" />
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31gh775f3vg7pqh2oqo5q5wpu2ju&count=5&unique=true" height="260" alt="Spotify recently played" />
   </a>
-  <img align="center" src="https://media1.tenor.com/m/It_zwL75XXQAAAAd/the-big-lebowski-the-dude.gif" height="280" alt="The Dude GIF" />
+  <img align="center" src="https://media1.tenor.com/m/It_zwL75XXQAAAAd/the-big-lebowski-the-dude.gif" height="260" alt="The Dude GIF" />
 </div>
 
 <br clear="both">
