@@ -49,7 +49,7 @@
 <h1></h1>
 
 <div align="center">
-	<img alt="mmouqtadi's profile views" src="https://badges.pufler.dev/visits/mmouqtadi/mmouqtadi?style=flat&logo=github&logoColor=green&label=Profile%20views&labelColor=000&color=009900"/>
+	![Profile views](https://badges.pufler.dev/visits/mmouqtadi/mmouqtadi?style=flat&logo=github&logoColor=green&label=Profile%20views&labelColor=000&color=009900)
 	<img alt="mmouqtadi's followers" src="https://img.shields.io/github/followers/mmouqtadi?style=flat&logo=github&logoColor=green&labelColor=000&color=009900" />
 	<img alt="mmouqtadi's stars" src="https://img.shields.io/github/stars/mmouqtadi?style=flat&logo=github&logoColor=green&label=stars&labelColor=000&color=009900" />
 </div>
