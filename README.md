@@ -10,7 +10,7 @@
 
 <a href="http://m4sec.team/" target="_blank">Currently part of the M4SEC team</a> - <a href="https://ctftime.org/team/368396" target="_blank">CTFtime profile</a>
 
-<h2 align="left">I mainly play web categories challenges</h2>
+<h2 align="left">I mainly hack web</h2>
 
 <h2>✨ Fun Facts</h2>
 
