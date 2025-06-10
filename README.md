@@ -1,4 +1,4 @@
-# Hi, I use Arch btw 👋
+# Hello DUDE
 
 <p href="https://github.com/mmouqtadi?tab=repositories" align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/mmouqtadi?tab=repositories">
