@@ -22,9 +22,6 @@
 
 <div align="left">
 <br><br>
-<a href="https://www.instagram.com/mohammed_mouqtadi/" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="38" alt="instagram logo"  />
-</a>
 <a href="https://discord.com/users/1189395486927491152">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="38" alt="discord logo"  />
 </a>
