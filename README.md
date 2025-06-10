@@ -1,32 +1,16 @@
 # Hello DUDE
 
-<p href="https://github.com/mmouqtadi?tab=repositories" align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://github.com/mmouqtadi?tab=repositories">
-    <img align="center" alt="mmouqtadi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmouqtadi&hide_title=true&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ff00&border_color=00ff00&border_radius=12&card_width=436" style="vertical-align: middle;" height="135" />
-  </a>
-	  <a href="https://github.com/mmouqtadi?tab=repositories">
-    <img align="center" alt="mmouqtadi's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmouqtadi&layout=compact&theme=chartreuse-dark&show_icons=true&icon_color=00ff00&border_color=00ff00&border_radius=12" style="vertical-align: middle;" height="134.5" />
-  </a>
-</p>
-
 <div align = center>
-  <a href="https://open.spotify.com/user/31gh775f3vg7pqh2oqo5q5wpu2ju">
-    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31gh775f3vg7pqh2oqo5q5wpu2ju&count=5&unique=true" height="260" alt="Spotify recently played" />
-  </a>
   <img align="center" src="https://media1.tenor.com/m/It_zwL75XXQAAAAd/the-big-lebowski-the-dude.gif" height="260" alt="The Dude GIF" />
 </div>
 
 <br clear="both">
 <h2 align="left">💫 About Me</h2>
-<p align="left">Hello, my name is Mohammed Mouqtadi. I am 22 years old, from Morocco, and I'm passionate about red teaming and penetration testing.</p>
+<p align="left">Hello, my name is Mohammed Mouqtadi. I am 22 years old, from Morocco, and I'm passionate about ctfs / red teaming and penetration testing.</p>
 
+<a href="http://m4sec.team/" target="_blank">Currently part of the M4SEC team</a> - <a href="https://ctftime.org/team/368396" target="_blank">CTFtime profile</a>
 
-<h2 align="left">🔧 Skills</h2>
-
-- **Programming/Scripting Languages:** Visual Basic, Bash, AutoHotkey (AHK), C (currently studying)
-
-- **Front-End Technologies:** HTML, CSS, JavaScript
-
+<h2 align="left">I mainly play web categories challenges</h2>
 
 <h2>✨ Fun Facts</h2>
 
